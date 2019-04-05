@@ -29,4 +29,5 @@ Planning on using slack?
 ## Contact Information
 
 Austin Jacobs: ajacobs7@stanford.edu
+
 Kathleen Kenealy: kkenealy@stanford.edu
