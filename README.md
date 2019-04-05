@@ -7,7 +7,7 @@
 ## Team Members
 | Member                | Photo                                         |
 | --------------------- | --------------------------------------------- |
-| Austin Jacobs         |  |
+| Austin Jacobs         | <img src="./images/austinjacobs.jpg" width="150"> |
 | Kathleen Kenealy      |  |
 |                       |  |
 |                       |  |
