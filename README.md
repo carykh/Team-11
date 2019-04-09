@@ -22,6 +22,12 @@
    * Current non-profit aggregating websites do their job poorly; bad UIs that encourage donation to the website over donating to charities
    * No reviews of charities
    * Useful for new charities - we can highlight
+   
+   
+## Benchmarking
+
+Similar concept, bad UI: https://www.charitynavigator.org
+Give small loans: https://www.kiva.org
 
 ## Team Members
 | Member                | Photo                                         |
