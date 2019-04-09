@@ -1,4 +1,4 @@
-# Team-11
+# The Giving World
 <img src="./images/giving_world_logo.png" width="300">
 
 ## Project Synopsis 
