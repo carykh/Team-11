@@ -50,7 +50,9 @@ Give small loans: https://www.kiva.org
 
 ## Team Communication
 
-We will be using Slack for communication.
+Slack: https://cs194-team-11.slack.com
+
+Google Drive: https://drive.google.com/open?id=1MCHVAQ9Ul1zvphH2DUY6PSVTMUDaPvc3
 
 ## Contact Information
 
@@ -61,3 +63,5 @@ Kathleen Kenealy: kkenealy@stanford.edu
 Josh DuFault: jdufault@stanford.edu
 
 Alfonce Nzioka: alfonce@stanford.edu
+
+Cary Huang: carykh@stanford.edu
