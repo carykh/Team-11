@@ -1,5 +1,5 @@
 # Team-11
-<img src="./images/giving_world_logo.png" width="150">
+<img src="./images/giving_world_logo.png" width="300">
 
 ## Project Synopsis 
  * Make it easier for people to find places to donate
