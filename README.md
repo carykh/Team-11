@@ -1,8 +1,27 @@
 # Team-11
-<!--- Logo Image --->
+<img src="./images/giving_world_logo.png" width="150">
 
 ## Project Synopsis 
-
+ * Make it easier for people to find places to donate
+ * Connect people to charities based on skills, giving needs, location, charity reviews, interest
+ * Reviews
+    * Star reviews based on who has donated
+ * Give people donation history
+    * Design UI that allows people help with their taxes thorugh having all the necessary information about their donations
+ * We give people ease of connection and encouragement through:
+    * Reviews
+    * UI
+    * Locality
+  * Allow people to sign up for notifications:
+    * As needs arise, notify people about opportunities that match their giving needs
+  * Allow people to opt-in to a newsletter, either from specific 
+    
+    
+ * Why this project is necessary right now:
+   * Recent tax cut made less incentives for small donations; there will likely be a drop in small donations, so we want to make it as easy as possible to donate
+   * Current non-profit aggregating websites do their job poorly; bad UIs that encourage donation to the website over donating to charities
+   * No reviews of charities
+   * Useful for new charities - we can highlight
 
 ## Team Members
 | Member                | Photo                                         |
@@ -24,33 +43,7 @@
 
 ## Team Communication
 
-We will be using
-
-
-## Project Synopsis
- * Make it easier for people to find places to donate
- * Connect people to charities based on skills, giving needs, location, charity reviews, interest
- * Reviews
-    * Star reviews based on who has donated
- * Give people donation history
-    * Design UI that allows people help with their taxes thorugh having all the necessary information about their donations
- * We give people ease of connection and encouragement through:
-    * Reviews
-    * UI
-    * Locality
-  * Allow people to sign up for notifications:
-    * As needs arise, notify people about opportunities that match their giving needs
-  * Allow people to opt-in to a newsletter, either from specific 
-    
-    
- * Why this project is necessary right now:
-   * Recent tax cut made less incentives for small donations; there will likely be a drop in small donations, so we want to make it as easy as possible to donate
-   * Current non-profit aggregating websites do their job poorly; bad UIs that encourage donation to the website over donating to charities
-   * No reviews of charities
-   * Useful for new charities - we can highlight
-   
-   
- 
+We will be using Slack for communication.
 
 ## Contact Information
 
