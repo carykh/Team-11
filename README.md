@@ -28,6 +28,7 @@ Give small loans: https://www.kiva.org
 | Kathleen Kenealy      |  <img src="./images/23275542_1472690689513643_4536135020035684231_o.jpg" width="150"> |
 | Josh DuFault          |  <img src="./images/JoshD.jpg" width="150"> |
 | Alfonce Nzioka        |  <img src="./images/alfonce.jpg" width="150">|
+| Cary Huang        |  I currently don't have upload permission to this repository. :( |
 
 <!--- <img src="./images/filename.jpg" width="150"> --->
 
@@ -38,6 +39,7 @@ Give small loans: https://www.kiva.org
 | Kathleen Kenealy | ML, NLP, Python, algorithms/theory & analysis, UI/UX | Collaborative, dedicated, organized | OOD, full stack integration/design | Less experienced with full stack design |
 | Josh DuFault | ML, Deep Learning, NLP, Data Analysis, Spark, Python, C++, Java | Collaborative, dedicated | SDLC | UI |
 | Alfonce Nzioka |Deep Learning, NLP, C++, MEAN stack dev, C++, Python, Desktop applications(using javafx)|Self-driven, time-conscious| Rapid prototyping, UI design, Mobile dev|Too independent|
+| Cary Huang | Animation, Video Editing, Machine Learning, Java, JavaScript, Python, SQL, PHP, Unity (somewhat), mobile app development (somewhat) | creative, ambitious | Working more closely with a userbase (both donation orgs and individuals), marketing | Financial/legal sides of app development (esp. regarding donations), has trouble as trouble getting up early, perfectionist |
 
 ## Team Communication
 
