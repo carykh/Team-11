@@ -26,7 +26,7 @@ Give small loans: https://www.kiva.org
 | --------------------- | --------------------------------------------- |
 | Austin Jacobs         |  <img src="./images/austinjacobs.jpg" width="150"> |
 | Kathleen Kenealy      |  <img src="./images/23275542_1472690689513643_4536135020035684231_o.jpg" width="150"> |
-| Josh DuFault          |  |
+| Josh DuFault          |  <img src="./images/JoshD.jpg" width="150"> |
 | Alfonce Nzioka        |  <img src="./images/alfonce.jpg" width="150">|
 
 <!--- <img src="./images/filename.jpg" width="150"> --->
